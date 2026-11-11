@@ -4,7 +4,7 @@ Versioned resumes for **Hari Prasad Guntuku**, kept as two independent tracks:
 
 | Track | Folder | Target roles | Latest | Tag |
 |---|---|---|---|---|
-| Data Analyst | [`data-analyst/`](data-analyst/) | Data Analyst, BI Analyst, Product/Business Analyst | [v1](data-analyst/v1/) | `data-analyst-v1` |
+| Data Analyst | [`data-analyst/`](data-analyst/) | Data Analyst, BI Analyst, Product/Business Analyst | [v2](data-analyst/v2/) | `data-analyst-v2` |
 | AI Engineer | [`ai-engineer/`](ai-engineer/) | AI Engineer, ML Engineer, NLP / Applied ML | [v1](ai-engineer/v1/) | `ai-engineer-v1` |
 
 ## Layout
@@ -39,7 +39,7 @@ resume-design/
    snapshot of exactly what was sent out at that point, so any version can be
    re-downloaded later.
 4. **Every version folder contains** the `.docx`, the `.pdf` (file names end in
-   `_vN`), and a `resume.txt` text snapshot. The AI Engineer track also keeps its
+   `_vN`), and a `resume.txt` text snapshot. From v2 (Data Analyst) and v1 (AI Engineer) each folder also keeps its
    `build_resume.py` generator.
 5. **Every version gets a git tag** named `<track>-vN` (for example `data-analyst-v2`)
    and an entry in that track's `CHANGELOG.md`.

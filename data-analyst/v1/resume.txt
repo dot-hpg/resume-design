@@ -1,0 +1,60 @@
+                                          HARI PRASAD GUNTUKU
+                         Data Analyst | SQL | Python | Power BI | Tableau | Excel | Statistics
+   Hyderabad, India | +91 8555081508 | connect.hpg@gmail.com | linkedin.com/in/[your-linkedin] | github.com/dot-hpg
+
+PROFESSIONAL SUMMARY
+Data Analyst with 2+ years of experience turning large operational and customer datasets into business decisions. Writes
+production SQL (CTEs, window functions) and Python to automate reporting pipelines, builds Power BI and Tableau dashboards
+that stakeholders use to track KPIs, and applies statistics (hypothesis testing, A/B testing, confidence intervals) to answer
+business questions with evidence. Built RFM/CLV customer segmentation that identified high-value customer groups for
+targeted strategy. Currently pursuing an M.S. in Computer Science (AI & ML).
+
+TECHNICAL SKILLS
+SQL: MySQL, PostgreSQL, Joins, CTEs, Window Functions, Subqueries, Aggregations, Data Modeling
+Python: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikit-learn, Jupyter
+BI & Reporting: Power BI, Tableau, Streamlit, Advanced Excel (Pivot Tables, Lookups, Charts), KPI Dashboards, Automated
+Reporting
+Statistics & Analytics: EDA, Hypothesis Testing (t-test, ANOVA, Chi-Square), A/B Testing, Confidence Intervals, CLT, Cohort
+Analysis, Customer Segmentation, RFM / CLV Modeling
+Data Quality & Tools: ETL Automation, Data Cleaning, Data Validation, Git/GitHub, Docker, Stakeholder Requirements
+Gathering
+
+PROFESSIONAL EXPERIENCE
+Data Analyst | Ivue Technologies Pvt. Ltd., Hyderabad                                                   Mar 2024 – Apr 2026
+ • Built and automated SQL and Python data pipelines (joins, CTEs, window functions) for extraction, transformation, and
+   reporting across [X] business units, replacing manual spreadsheet pulls.
+ • Developed [X] Power BI dashboards and KPI reports, partnering with [sales / operations / finance] stakeholders to define
+   requirements, metric logic, and refresh cadence.
+ • Automated recurring [weekly / monthly] reporting workflows with SQL and Power BI, reducing manual reporting effort by
+   ~[X] hours per [week / month] and making delivery consistent and on time.
+ • Analyzed operational datasets of [X] million+ records with Python and Excel to surface customer behavior patterns and
+   business opportunities, presenting findings to [managers / business leads].
+ • Built RFM segmentation and customer lifetime value (CLV) models to identify high-value customer groups, informing
+   targeted [retention / marketing] strategies.
+ • Implemented data validation and transformation checks across pipelines, keeping figures accurate and consistent
+   between source data, reports, and dashboards.
+
+DATA ANALYTICS PROJECTS
+E-Commerce Sales & Operations Analysis (Target Brazil) | SQL, Python, Tableau
+ • Queried 100K+ orders with advanced SQL to analyze revenue trends, delivery performance, and payment behavior; built
+   Tableau dashboards to track these KPIs over time.
+Walmart Customer Purchase Analytics | Python, Pandas, NumPy, SciPy
+• Analyzed 550K+ Black Friday transactions; used the Central Limit Theorem and confidence intervals to compare spending
+  across customer cohorts and recommended targeted promotions.
+Yulu Shared-Mobility Demand Analysis | Python, SciPy, Statistics
+ • Applied t-tests, ANOVA, and Chi-Square tests to identify statistically significant drivers of rental demand and
+   recommended fleet allocation strategies.
+LLM Quality Analytics Dashboard | Python, SQL, Streamlit, Power BI                     github.com/dot-hpg/rag-eval-dashboard
+ • Defined evaluation metrics (retrieval relevance, faithfulness, answer quality), logged queries, latency, and scores to a SQL
+    database, and built a dashboard comparing configurations to select the best-performing setup.
+Also built: RAG document Q&A service and a multi-agent research assistant (Python, LangChain, LangGraph, FastAPI) at
+github.com/dot-hpg.
+
+EDUCATION
+M.S. in Computer Science (AI & ML), In Progress | Woolf University, via Scaler Neovarsity
+Advanced Data Science & Machine Learning Program, In Progress | Scaler Academy
+Bachelor of Architecture (B.Arch), First Class | School of Planning and Architecture, New Delhi
+
+CERTIFICATIONS
+SQL (Intermediate) and SQL (Basics), HackerRank | Python Libraries, SQL, EDA Fundamentals, Exploratory Data Analysis, NSDC
+

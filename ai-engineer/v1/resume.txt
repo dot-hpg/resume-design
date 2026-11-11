@@ -1,0 +1,51 @@
+                                          HARI PRASAD GUNTUKU
+                         AI / ML Engineer | NLP | Embeddings | Time-Series Forecasting | Python
+  Hyderabad, India | +91 8555081508 | connect.hpg@gmail.com | linkedin.com/in/dot-hpg | github.com/dot-hpg | guntuku.vercel.app
+
+PROFESSIONAL SUMMARY
+AI/ML engineer with 2 years of industry experience as a Data Analyst (SQL and Python pipelines, data validation, Power BI), now
+building end-to-end ML systems in NLP, embeddings and forecasting. Takes models from notebook to tested, deployed product:
+fine-tuned BERT for tweet NER (3.2x a BiLSTM baseline), a LightGBM forecaster for 365 stores (16.8% daily WAPE), and an on-
+device embedding app with ~97% test coverage. Pursuing an M.S. in Computer Science (AI & ML).
+TECHNICAL SKILLS
+ML & NLP: BERT fine-tuning, BiLSTM-CRF, Sentence Embeddings, TF-IDF, NLTK, Scikit-learn, TensorFlow, LightGBM, XGBoost, SHAP
+Modeling & Statistics: Time-Series Forecasting, Rolling-Origin Validation, Regression, Hypothesis Testing, Bootstrap, ROC AUC
+Deployment & MLOps: FastAPI, Flask, Streamlit, Docker, Kubernetes, ONNX Runtime Web, Transformers.js, GitHub Actions CI/CD
+Languages & Data: Python, SQL (PostgreSQL, MySQL, BigQuery), TypeScript, React, Pandas, NumPy, Power BI, Tableau
+PROFESSIONAL EXPERIENCE
+Data Analyst | Ivue Technologies Pvt. Ltd., Hyderabad                                                         Mar 2024 – Apr 2026
+ • Built and automated SQL and Python data pipelines (joins, CTEs, window functions) for extraction, transformation and reporting
+   across multiple business units, with validation checks keeping reports consistent with source data.
+ • Automated recurring reporting and developed Power BI dashboards and KPI reports, working with stakeholders to define
+   requirements, metric logic and refresh cadence.
+ • Analyzed operational datasets spanning millions of records with Python and Excel; built RFM segmentation and customer
+   lifetime value (CLV) models to identify high-value customer groups.
+AI / ML PROJECTS
+FitCheck: On-Device AI Resume Matcher | Transformers.js, ONNX, React, TypeScript                               dot-hpg.github.io/fitcheck
+ • Shipped a private resume-to-job matcher running the all-MiniLM-L6-v2 embedding model (~23 MB quantized ONNX) fully in the
+    browser via a Web Worker, with an explainable 100-point score and skill-gap analysis over 350+ skill aliases.
+ • Reached ~97% unit-test coverage of the matching engine plus Playwright end-to-end tests (including offline real-model runs);
+    GitHub Actions lints, type-checks, tests, builds and deploys on every push.
+Twitter Named Entity Recognition | BERT, TensorFlow, FastAPI, Docker, Kubernetes                         github.com/dot-hpg/twitter-ner
+ • Ran 17 controlled experiments on WNUT-16 comparing BiLSTM-CRF with fine-tuned BERT for entity extraction from noisy
+    tweets; fine-tuned BERT reached test F1 0.437, 3.2x the LSTM baseline.
+ • Served the best model as a containerized FastAPI service and published a technical write-up on Medium.
+Retail Sales Forecasting | LightGBM, XGBoost, SHAP, Flask, Streamlit                               github.com/dot-hpg/sales-forecasting
+ • Forecast daily sales 61 days ahead for 365 stores; compared 10 models and tested 8 hypotheses using leakage-free features
+    and rolling-origin validation.
+ • Global LightGBM hit 16.8% daily WAPE on a 61-day hold-out (~90% accurate at store-month level) and measured a +33%
+    discount sales lift; explained with SHAP, served via Flask API and Streamlit.
+FlipItNews: News Classification | Scikit-learn, NLTK, TF-IDF, FastAPI                 github.com/dot-hpg/flipitnews-news-classification
+ • Compared 12 model and vectorizer pairs with cross-validation and leakage checks; Logistic Regression reached 98.0% test
+    accuracy, rising to 99.8% by routing low-confidence articles to an editor; served via FastAPI in Docker.
+DATA SCIENCE CASE STUDIES
+• Target Brazil (SQL, BigQuery): 99,441 orders; +137% YoY order value; very late deliveries cut reviews from 4.32 to 1.70.
+• LoanTap Credit Risk (Logistic Regression, SMOTE): 396,030 loans, 0.70 ROC AUC; 81% accuracy masked just 7% defaulter recall.
+• Walmart Black Friday (CLT, Bootstrap): 550,068 transactions; traced the ~8% gender spending gap to product mix.
+8 more case studies (Yulu, Delhivery, Netflix, Aerofit, Jamboree and others) at guntuku.vercel.app/scaler
+EDUCATION
+M.S. in Computer Science (AI & ML) | Woolf University, via Scaler Neovarsity                                                  In Progress
+Advanced Data Science & Machine Learning Program | Scaler Academy                                                             In Progress
+Bachelor of Architecture (B.Arch), First Class | School of Planning and Architecture, New Delhi
+Certifications: HackerRank SQL (Intermediate, Basics) | NSDC: Python Libraries, SQL, EDA Fundamentals
+

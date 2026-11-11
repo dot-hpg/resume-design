@@ -2,6 +2,16 @@
 
 Each entry is one version. Newest first. Files for each version live in `vN/`.
 
+## v2 — 2026-11-11
+
+Tag: `ai-engineer-v2` · Folder: [`v2/`](v2/)
+
+- Ivue Technologies dates are now "Mar 2024 – Present" (still employed); summary says 2+ years.
+- Portfolio link is now hariprasad-ai-engineer.vercel.app; contact info split over two lines.
+- FitCheck now links to its GitHub repo (github.com/dot-hpg/fitcheck) instead of the live demo,
+  so every project links to GitHub. Case-study pointer now points to github.com/dot-hpg.
+- "Millions of records" replaced with "large operational and customer datasets" (no verified count).
+
 ## v1 — 2026-11-10
 
 Tag: `ai-engineer-v1` · Folder: [`v1/`](v1/)

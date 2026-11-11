@@ -2,6 +2,19 @@
 
 Each entry is one version. Newest first. Files for each version live in `vN/`.
 
+## v3 — 2026-11-11
+
+Tag: `data-analyst-v3` · Folder: [`v3/`](v3/)
+
+- Ivue Technologies dates are now "Mar 2024 – Present" (still employed); summary says 2+ years.
+- Portfolio link is now hariprasad-data-analyst.vercel.app; contact info split over two lines.
+- Every project now links to its own GitHub repo instead of a portfolio page.
+- Added Customer Analytics (RFM, cohorts, CLV: 1,306 loyal customers, 75%+ of revenue) and
+  BI Dashboards (7 Power BI and Tableau dashboards; supplier SLA 99.3% vs. 89.5%).
+- Merged the Target Brazil bullets; Yulu now uses the case-study page's figures (4 hypotheses,
+  R² 0.93, season swing up to 50%, +65% YoY). Retail Sales Forecasting moved to the AI Engineer resume only.
+- Skills: added DuckDB, DAX, Power Query, Tableau LOD and parameters.
+
 ## v2 — 2026-11-11
 
 Tag: `data-analyst-v2` · Folder: [`v2/`](v2/)

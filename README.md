@@ -1,10 +1,11 @@
 # Resume Design
 
-Versioned resumes for **Hari Prasad Guntuku**, kept as two independent tracks:
+Versioned resumes for **Hari Prasad Guntuku**, kept as independent tracks:
 
 | Track | Folder | Target roles | Latest | Tag |
 |---|---|---|---|---|
 | Data Analyst | [`data-analyst/`](data-analyst/) | Data Analyst, BI Analyst, Product/Business Analyst | [v3](data-analyst/v3/) | `data-analyst-v3` |
+| Data Analyst (Fresher) | [`data-analyst-fresher/`](data-analyst-fresher/) | Entry-level Data Analyst / BI Analyst, zero years' experience | [v1](data-analyst-fresher/v1/) | `data-analyst-fresher-v1` |
 | AI Engineer | [`ai-engineer/`](ai-engineer/) | AI Engineer, ML Engineer, NLP / Applied ML | [v2](ai-engineer/v2/) | `ai-engineer-v2` |
 
 ## Layout

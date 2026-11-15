@@ -1,0 +1,52 @@
+                                         HARI PRASAD GUNTUKU
+                   Entry-Level Data Analyst | SQL | Python | Power BI | Tableau | Excel | Statistics
+                                     Hyderabad, India | +91 8555081508 | connect.hpg@gmail.com
+                      linkedin.com/in/dot-hpg | github.com/dot-hpg | Portfolio: hariprasad-data-analyst.vercel.app
+
+CAREER OBJECTIVE
+Aspiring Data Analyst trained through Scaler's Advanced Data Science & Machine Learning program and pursuing an M.S. in
+Computer Science (AI & ML). Hands-on with advanced SQL (CTEs, window functions, BigQuery), Python (Pandas, SciPy,
+Statsmodels), Power BI and Tableau, and statistics (hypothesis and A/B testing, confidence intervals, regression). Completed 8 end-
+to-end analytics case studies on public datasets of up to 550K records, each ending in a clear business recommendation. Looking
+for an entry-level Data Analyst or BI Analyst role to turn data into decisions.
+EDUCATION
+M.S. in Computer Science (AI & ML) | Woolf University, via Scaler Neovarsity                                             In Progress
+Advanced Data Science & Machine Learning Program | Scaler Academy                                                        In Progress
+Bachelor of Architecture (B.Arch), First Class | School of Planning and Architecture, New Delhi
+Relevant coursework (Scaler / M.S.): SQL and database querying, Python for data analysis, probability and statistics, hypothesis
+testing, data visualization, business case studies, machine learning.
+TECHNICAL SKILLS
+SQL: PostgreSQL, MySQL, BigQuery, DuckDB, Joins, CTEs, Window Functions, Subqueries, Aggregations, Data Modeling
+Python: Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Jupyter
+BI & Reporting: Power BI (DAX, Power Query, Data Modeling), Tableau (LOD, Parameters), Excel (Pivot Tables, XLOOKUP)
+Statistics: EDA, Hypothesis Testing (t-test, ANOVA, Chi-Square), A/B Testing, Confidence Intervals, Bootstrap, Regression
+Analytics & Tools: Customer Segmentation, RFM / CLV, Cohort Analysis, Data Cleaning, Data Validation, ETL, Git, Docker
+ACADEMIC & PERSONAL PROJECTS
+Target Brazil: E-Commerce Operations Analysis | SQL, BigQuery, Python                github.com/dot-hpg/target-brazil-sql-case-study
+ • Wrote 30 BigQuery SQL queries (joins, CTEs, window functions) over 99,441 orders across six deep-dives into sales, delivery,
+   freight and customer reviews.
+ • Found that order value grew 137% year over year, very late deliveries cut review scores from 4.32 to 1.70, and same-state
+   orders arrived 2x faster with 43% lower freight.
+Customer Analytics: RFM, Cohorts & CLV | Python, Pandas, Segmentation                   github.com/dot-hpg/crm-analytics-python
+ • Segmented customers with RFM scoring, cohort retention and CLV; identified 1,306 loyal customers driving 75%+ of revenue
+   and pinpointed Month 2 as the point where retention drops sharply.
+Walmart: Black Friday Spending Analysis | Python, CLT, Bootstrap, Tableau    github.com/dot-hpg/walmart-black-friday-clt-analysis
+• Analyzed 550,068 transactions with the Central Limit Theorem, confidence intervals and bootstrapping.
+• Showed men spent ~8% more per transaction but product mix explained 100% of the gap, shifting the targeting
+  recommendation from gender to product category.
+Yulu: What Drives E-Cycle Demand | t-test, ANOVA, Chi-Square, Regression             github.com/dot-hpg/yulu-hypothesis-testing
+ • Tested 4 hypotheses on 10,886 hourly rental records; regression explained demand with R² 0.93, season swung demand by up
+   to 50%, demand grew 65% year over year, and ~81% of rides came from registered users.
+Netflix: Content Strategy Analysis | Python, Pandas, Seaborn                             github.com/dot-hpg/netflix-content-insights
+ • Explored 8,807 titles across 23 charts: TV's share of new additions rose from 25% to 34% (2018–2021) and 67% of shows ran a
+   single season; delivered ten content-strategy recommendations.
+BI Dashboards | Power BI, DAX, Power Query, Tableau                              github.com/dot-hpg/power-BI-projects-data-analysis
+ • Built 7 Power BI and Tableau dashboards, including Supplier Performance & SLA (tracking 99.3% SLA compliance for
+   consumables vs. 89.5% for uniforms), Audit Efficiency & Effectiveness, and Education Data Insights.
+CERTIFICATIONS
+• HackerRank: SQL (Intermediate), SQL (Basics)
+• NSDC: Python Libraries, SQL, EDA Fundamentals
+STRENGTHS
+• Turns open-ended business questions into clear analysis plans and plain-language recommendations.
+• Works in the open: every project above is published in its own GitHub repository.
+

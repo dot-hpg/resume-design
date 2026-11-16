@@ -7,8 +7,8 @@ PROFESSIONAL SUMMARY
 Data Analyst who turns messy data into decisions people trust. At Ivue Technologies since March 2024: write SQL on MySQL and
 PostgreSQL (CTEs, window functions) for recurring business reports, build Python ETL pipelines, RFM and CLV customer segments,
 and the Power BI and Tableau dashboards teams use to track KPIs, with validation checks so every report matches its source.
-Trained as an architect, so I think in systems and design for the person using the result. Pursuing an M.S. in CS (AI & ML); recently
-shipped FitCheck, an open-source resume-to-job matcher that runs in the browser.
+Trained as an architect, so I think in systems and design for the person using the result. Portfolio includes a SQL Server freight
+warehouse with 16 data-quality rules and a 30-query BigQuery e-commerce analysis.
 SKILLS
 Primary: SQL (MySQL, PostgreSQL, SQL Server / T-SQL; CTEs, window functions, stored procedures) | Power BI (DAX, Power
 Query, data modeling) | Excel (pivots, XLOOKUP)

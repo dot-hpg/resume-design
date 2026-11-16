@@ -132,8 +132,8 @@ run(p, "Data Analyst who turns messy data into decisions people trust. ", bold=T
 run(p, "At Ivue Technologies since March 2024: write SQL on MySQL and PostgreSQL (CTEs, window functions) for recurring "
        "business reports, build Python ETL pipelines, RFM and CLV customer segments, and the Power BI and Tableau "
        "dashboards teams use to track KPIs, with validation checks so every report matches its source. Trained as an "
-       "architect, so I think in systems and design for the person using the result. Pursuing an M.S. in "
-       "CS (AI & ML); recently shipped FitCheck, an open-source resume-to-job matcher that runs in the browser.")
+       "architect, so I think in systems and design for the person using the result. Portfolio includes a SQL "
+       "Server freight warehouse with 16 data-quality rules and a 30-query BigQuery e-commerce analysis.")
 
 # ---------- Skills ----------
 # Split by priority, as the review asked. Primary = daily tools for the target roles.

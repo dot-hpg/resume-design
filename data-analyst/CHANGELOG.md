@@ -2,6 +2,31 @@
 
 Each entry is one version. Newest first. Files for each version live in `vN/`.
 
+## v4 — 2026-11-16
+
+Tag: `data-analyst-v4` · Folder: [`v4/`](v4/)
+
+Applies the recruiter-style review of v3. Ready to send: no placeholders, and no numbers
+were estimated.
+
+- Summary rewritten to lead with experience, SQL, Power BI and reporting. Uses the exact start
+  date ("since March 2024") instead of a year count. Dropped the "8 case studies" claim.
+- Skills split into Primary (SQL, Power BI, Excel), Secondary (Python, ETL / validation, KPI
+  reporting) and Additional (Tableau, statistics, BigQuery, DuckDB, RFM / CLV, Git).
+  Removed SciPy, Statsmodels, Scikit-learn and Docker from this track.
+- Ivue bullets describe scope (tools, what was built, who used it, what it fed into) with no
+  figures, because the real ones aren't available. Add real figures in a later version if they
+  turn up; do not estimate them.
+- Projects cut from 6 to the top 3, each as Problem / Approach / Result:
+  - **New:** Global Freight Analytics Platform (SQL Server, T-SQL, pandas). Figures are the scale of
+    its synthetic dataset, labelled as such: 500K shipments, 4.6M rows over 14 source files,
+    6 fact tables, 16 data-quality rules, 250 planted defects caught, reconciliation within $0.16.
+    Links to github.com/dot-hpg until it has its own repo.
+  - Target Brazil (SQL, BigQuery) and BI Dashboards (Power BI, Tableau) kept.
+  - Customer Analytics, Walmart, Yulu and Netflix moved to a one-line "More case studies on GitHub".
+- Education: added a one-line career-move note (architecture to analytics).
+- Still one page.
+
 ## v3 — 2026-11-11
 
 Tag: `data-analyst-v3` · Folder: [`v3/`](v3/)

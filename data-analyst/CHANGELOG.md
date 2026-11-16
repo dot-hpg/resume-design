@@ -2,6 +2,18 @@
 
 Each entry is one version. Newest first. Files for each version live in `vN/`.
 
+## v5 — 2026-11-16
+
+Tag: `data-analyst-v5` · Folder: [`v5/`](v5/)
+
+- Professional summary rewritten from the user's LinkedIn About text: opens with "turns messy data
+  into decisions people trust", names MySQL and PostgreSQL, Python ETL, RFM / CLV and the Power BI
+  and Tableau dashboards, gives the architecture-to-analytics reason (systems thinking, designing
+  for the end user) and mentions FitCheck and the M.S. in one line.
+- The separate "Career move" line in Education is removed, because the summary now covers it.
+- Primary SQL skills now list MySQL and PostgreSQL first.
+- No new figures. Still one page.
+
 ## v4 — 2026-11-16
 
 Tag: `data-analyst-v4` · Folder: [`v4/`](v4/)

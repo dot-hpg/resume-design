@@ -6,14 +6,17 @@ Each entry is one version. Newest first. Files for each version live in `vN/`.
 
 Tag: `data-analyst-v5` · Folder: [`v5/`](v5/)
 
-- Professional summary rewritten from the user's LinkedIn About text: opens with "turns messy data
-  into decisions people trust", names MySQL and PostgreSQL, Python ETL, RFM / CLV and the Power BI
-  and Tableau dashboards, gives the architecture-to-analytics reason (systems thinking, designing
-  for the end user) and closes with the SQL Server and BigQuery portfolio work. Analytics only:
-  no AI or FitCheck mentions (the M.S. stays in Education).
-- The separate "Career move" line in Education is removed, because the summary now covers it.
-- Education: removed the Scaler Academy program line; the M.S. (Woolf University) and B.Arch remain.
-- Primary SQL skills now list MySQL and PostgreSQL first.
+- Professional summary rewritten from the user's LinkedIn About text, analytics only and with no
+  bold, dates or company names: opens with "turns messy data into decisions people trust", then
+  SQL (MySQL, PostgreSQL), Python ETL, Power BI and Tableau dashboards, RFM / CLV and validation,
+  the architecture background (systems thinking, focus on the end user), and the SQL Server and
+  BigQuery portfolio work.
+- Education: removed the Scaler Academy program line and the separate "Career move" line; the
+  M.S. (Woolf University) and B.Arch remain.
+- Polish pass for recruiters and ATS: verb-first experience bullets (automate, design, run,
+  implement), keywords the resume already supports (ETL, data cleaning, ad-hoc analysis,
+  requirements gathering, dimensional model, data quality), tighter project lines, and no
+  single-word wrapped lines. Primary SQL skills list MySQL and PostgreSQL first.
 - No new figures. Still one page.
 
 ## v4 — 2026-11-16

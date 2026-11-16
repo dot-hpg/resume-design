@@ -1,52 +1,52 @@
                                          HARI PRASAD GUNTUKU
-                          Data Analyst | SQL | Power BI | Excel | Business Reporting | Python
+                     Data Analyst | SQL | Power BI | Excel | Python | Reporting & KPI Dashboards
                                      Hyderabad, India | +91 8555081508 | connect.hpg@gmail.com
                       linkedin.com/in/dot-hpg | github.com/dot-hpg | Portfolio: hariprasad-data-analyst.vercel.app
 
 PROFESSIONAL SUMMARY
-Data Analyst who turns messy data into decisions people trust. At Ivue Technologies since March 2024: write SQL on MySQL and
-PostgreSQL (CTEs, window functions) for recurring business reports, build Python ETL pipelines, RFM and CLV customer segments,
-and the Power BI and Tableau dashboards teams use to track KPIs, with validation checks so every report matches its source.
-Trained as an architect, so I think in systems and design for the person using the result. Portfolio includes a SQL Server freight
-warehouse with 16 data-quality rules and a 30-query BigQuery e-commerce analysis.
+Data Analyst who turns messy data into decisions people trust. Writes SQL (MySQL, PostgreSQL; CTEs, window functions) and
+Python ETL pipelines for recurring business reports, builds the Power BI and Tableau dashboards teams use to track KPIs, and
+delivers RFM and CLV customer segmentation, with validation checks that keep every number consistent with its source. Brings an
+architect's systems thinking and focus on the end user. Portfolio includes a SQL Server data warehouse with 16 automated data-
+quality rules and a 30-query BigQuery e-commerce analysis.
 SKILLS
-Primary: SQL (MySQL, PostgreSQL, SQL Server / T-SQL; CTEs, window functions, stored procedures) | Power BI (DAX, Power
-Query, data modeling) | Excel (pivots, XLOOKUP)
-Secondary: Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter) | ETL and data validation | KPI reporting
-Additional: Tableau | Statistics (hypothesis and A/B testing, regression) | BigQuery, DuckDB | RFM / CLV | Git
+Primary: SQL (MySQL, PostgreSQL, SQL Server / T-SQL; joins, CTEs, window functions, stored procedures) | Power BI (DAX, Power
+Query, data modeling) | Excel (pivot tables, XLOOKUP)
+Secondary: Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter) | ETL, data cleaning, validation | KPI reporting, visualization
+Additional: Tableau | Statistics (hypothesis and A/B testing, regression) | BigQuery, DuckDB | RFM / CLV, cohort analysis | Git
 PROFESSIONAL EXPERIENCE
 Data Analyst | Ivue Technologies Pvt. Ltd., Hyderabad                                                           Mar 2024 – Present
- • Write and automate SQL (joins, CTEs, window functions) and Python pipelines that extract, clean and transform data for
-   recurring business reports, replacing manual spreadsheet pulls so reports go out consistent and on schedule.
- • Build and maintain Power BI dashboards and KPI reports for business stakeholders; agree requirements, metric definitions and
-   refresh schedules with them so every team reads the same numbers.
- • Analyze operational and customer data in SQL, Python and Excel to find trends and opportunities, and present findings and
-   recommendations to business leads.
- • Built RFM segmentation and customer lifetime value (CLV) models to identify high-value customer groups, informing targeted
-   retention and marketing strategies.
- • Added validation and reconciliation checks across pipelines so source data, reports and dashboards match before anything
-   reaches stakeholders.
+ • Automate data extraction, cleaning and transformation with SQL (joins, CTEs, window functions) and Python ETL pipelines,
+   replacing manual spreadsheet pulls so recurring business reports are consistent and on schedule.
+ • Design and maintain Power BI dashboards and KPI reports for business stakeholders; gather requirements and agree metric
+   definitions and refresh schedules so every team works from the same numbers.
+ • Run ad-hoc and recurring analysis of operational and customer data in SQL, Python and Excel, and turn the findings into clear
+   recommendations for business leads.
+ • Developed RFM segmentation and customer lifetime value (CLV) models that identify high-value customer groups and guide
+   targeted retention and marketing strategies.
+ • Implement data validation and reconciliation checks across pipelines so source systems, reports and dashboards match before
+   results reach stakeholders.
 SELECTED PROJECTS
-Global Freight Analytics Platform | SQL Server, T-SQL, Python, Pandas                                               github.com/dot-hpg
- • Problem: Freight data sat in 5 systems (bookings, billing, screening, claims, capacity) with no single trusted source.
- • Approach: Built a SQL Server lake-to-warehouse pipeline: T-SQL stored procedures load conformed dimensions and 6 fact
-   tables, convert charges to USD, quarantine bad rows, then run 16 data-quality rules; pandas re-checks the totals.
- • Result: On a 500K-shipment synthetic dataset (4.6M rows, 14 source files), the quality gate caught all 250 planted defects, and
-   row counts and USD revenue reconciled between files and warehouse to within $0.16.
+Global Freight Analytics Platform | SQL Server, T-SQL, Python, Pandas                                              github.com/dot-hpg
+ • Problem: Freight data was split across 5 systems (bookings, billing, screening, claims, capacity) with no trusted source.
+ • Approach: Designed a SQL Server ETL pipeline: T-SQL stored procedures load a dimensional model (conformed dimensions, 6
+   fact tables), convert charges to USD, quarantine bad rows and run 16 data-quality rules; pandas reconciles the totals.
+ • Result: On a 500K-shipment synthetic dataset (4.6M rows across 14 source files), the quality gate quarantined all 250 planted
+   defects, and row counts and USD revenue reconciled between source and warehouse to within $0.16.
 Target Brazil: E-Commerce Operations Analysis | SQL, BigQuery                        github.com/dot-hpg/target-brazil-sql-case-study
- • Problem: Find what drove order growth, delivery delays and poor reviews for Target's Brazil e-commerce business.
- • Approach: Wrote 30 BigQuery SQL queries (joins, CTEs, window functions) over 99,441 orders in six deep-dives.
+ • Problem: Identify what drove order growth, delivery delays and poor reviews in Target's Brazil e-commerce data.
+ • Approach: Wrote 30 BigQuery SQL queries (joins, CTEs, window functions) across six deep-dives on 99,441 orders.
  • Result: Order value grew 137% year over year; very late deliveries cut review scores from 4.32 to 1.70; same-state orders
    arrived 2x faster with 43% lower freight.
-BI Dashboards | Power BI, DAX, Power Query, Tableau                          github.com/dot-hpg/power-BI-projects-data-analysis
- • Problem: Turn raw operational data into dashboards that managers can read at a glance.
- • Approach: Built 7 Power BI and Tableau dashboards with DAX measures, Power Query cleaning and data modeling.
- • Result: Supplier Performance & SLA dashboard tracks 99.3% SLA compliance for consumables vs. 89.5% for uniforms; others
+BI Dashboards | Power BI, DAX, Power Query, Tableau                           github.com/dot-hpg/power-BI-projects-data-analysis
+ • Problem: Give managers dashboards they can read at a glance, built from raw operational data.
+ • Approach: Built 7 Power BI and Tableau dashboards using DAX measures, Power Query transformations and data modeling.
+ • Result: Supplier Performance & SLA dashboard surfaces 99.3% SLA compliance for consumables vs. 89.5% for uniforms; others
    cover audit efficiency and education data.
 More case studies on GitHub: Customer Analytics (RFM, cohorts, CLV) | Walmart Black Friday (CLT, bootstrap) | Yulu demand
 (hypothesis testing, regression) | Netflix content strategy (EDA)
 EDUCATION
-M.S. in Computer Science (AI & ML) | Woolf University, via Scaler Neovarsity                                               In Progress
+M.S. in Computer Science (AI & ML) | Woolf University, via Scaler Neovarsity                                              In Progress
 Bachelor of Architecture (B.Arch), First Class | School of Planning and Architecture, New Delhi
 Certifications: HackerRank SQL (Intermediate, Basics) | NSDC: Python Libraries, SQL, EDA Fundamentals
 

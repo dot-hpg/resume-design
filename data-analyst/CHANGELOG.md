@@ -12,6 +12,7 @@ Tag: `data-analyst-v5` · Folder: [`v5/`](v5/)
   for the end user) and closes with the SQL Server and BigQuery portfolio work. Analytics only:
   no AI or FitCheck mentions (the M.S. stays in Education).
 - The separate "Career move" line in Education is removed, because the summary now covers it.
+- Education: removed the Scaler Academy program line; the M.S. (Woolf University) and B.Arch remain.
 - Primary SQL skills now list MySQL and PostgreSQL first.
 - No new figures. Still one page.
 

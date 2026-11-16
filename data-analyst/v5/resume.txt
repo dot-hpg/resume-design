@@ -47,7 +47,6 @@ More case studies on GitHub: Customer Analytics (RFM, cohorts, CLV) | Walmart Bl
 (hypothesis testing, regression) | Netflix content strategy (EDA)
 EDUCATION
 M.S. in Computer Science (AI & ML) | Woolf University, via Scaler Neovarsity                                               In Progress
-Advanced Data Science & Machine Learning Program | Scaler Academy                                                          In Progress
 Bachelor of Architecture (B.Arch), First Class | School of Planning and Architecture, New Delhi
 Certifications: HackerRank SQL (Intermediate, Basics) | NSDC: Python Libraries, SQL, EDA Fundamentals
 

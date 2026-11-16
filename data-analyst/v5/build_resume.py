@@ -208,7 +208,6 @@ run(p, "Customer Analytics (RFM, cohorts, CLV)  |  Walmart Black Friday (CLT, bo
 heading("Education")
 for deg, school in [
     ("M.S. in Computer Science (AI & ML)", "Woolf University, via Scaler Neovarsity"),
-    ("Advanced Data Science & Machine Learning Program", "Scaler Academy"),
     ("Bachelor of Architecture (B.Arch), First Class", "School of Planning and Architecture, New Delhi"),
 ]:
     right = "In Progress" if "Bachelor" not in deg else ""

@@ -149,18 +149,20 @@ for k, v in skills:
     run(p, v)
 
 # ---------- Experience ----------
-# [Bracketed] text is highlighted yellow: replace it with real figures before sending. Never estimate.
+# No figures here until real ones are available. Never estimate. ([Bracketed] text would be highlighted yellow.)
 heading("Professional Experience")
 line_with_right([("Data Analyst", B), ("  |  Ivue Technologies Pvt. Ltd., Hyderabad", {})], "Mar 2024 – Present")
 for b in [
-    "Write and automate SQL and Python pipelines that pull [X records per day / month] from [source systems] for "
-    "[X] business teams, replacing manual spreadsheet pulls and cutting report preparation by [X hours per week].",
-    "Build and maintain [X] Power BI dashboards and KPI reports used by [X users in sales / operations / finance]; "
-    "agree requirements, metric definitions and refresh schedules with stakeholders so every team reads the same numbers.",
-    "Deliver [weekly / monthly] business reports to [managers / business leads]; findings led to [one real decision].",
-    "Built RFM and CLV models to find high-value customer groups for [retention / marketing] across [X customers].",
-    "Added validation and reconciliation checks across pipelines so source data, reports and dashboards match, "
-    "catching [X data issues per month] before they reached a report.",
+    "Write and automate SQL (joins, CTEs, window functions) and Python pipelines that extract, clean and transform data "
+    "for recurring business reports, replacing manual spreadsheet pulls so reports go out consistent and on schedule.",
+    "Build and maintain Power BI dashboards and KPI reports for business stakeholders; agree requirements, metric "
+    "definitions and refresh schedules with them so every team reads the same numbers.",
+    "Analyze operational and customer data in SQL, Python and Excel to find trends and opportunities, and present "
+    "findings and recommendations to business leads.",
+    "Built RFM segmentation and customer lifetime value (CLV) models to identify high-value customer groups, informing "
+    "targeted retention and marketing strategies.",
+    "Added validation and reconciliation checks across pipelines so source data, reports and dashboards match before "
+    "anything reaches stakeholders.",
 ]:
     bullet(b)
 
@@ -174,7 +176,7 @@ def proj(title, stack, link, problem, approach, result, first=False):
         bullet([(label, B), (text, {})])
 
 proj("Global Freight Analytics Platform", "SQL Server, T-SQL, Python, Pandas",
-     "[github.com/dot-hpg/repo-name]",
+     "github.com/dot-hpg",
      "Freight data sat in 5 systems (bookings, billing, screening, claims, capacity) with no single trusted source.",
      "Built a SQL Server lake-to-warehouse pipeline: T-SQL stored procedures load conformed dimensions and 6 fact "
      "tables, convert charges to USD, quarantine bad rows, then run 16 data-quality rules; pandas re-checks the totals.",
@@ -212,7 +214,7 @@ for deg, school in [
     line_with_right([(deg, B), ("  |  " + school, {})], right)
 p = para(space_before=1.5)
 run(p, "Career move: ", bold=True)
-run(p, "Moved from architecture into analytics because [your real reason, in a few words]; Data Analyst since March 2024.")
+run(p, "Moved from architecture into data analytics; Data Analyst since March 2024.")
 p = para(space_before=1.5)
 run(p, "Certifications: ", bold=True)
 run(p, "HackerRank SQL (Intermediate, Basics)  |  NSDC: Python Libraries, SQL, EDA Fundamentals")

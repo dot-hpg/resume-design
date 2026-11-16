@@ -2,6 +2,23 @@
 
 Each entry is one version. Newest first. Files for each version live in `vN/`.
 
+## v5 — 2026-11-16
+
+Tag: `data-analyst-v5` · Folder: [`v5/`](v5/)
+
+- Professional summary rewritten from the user's LinkedIn About text, analytics only and with no
+  bold, dates or company names: opens with "turns messy data into decisions people trust", then
+  SQL (MySQL, PostgreSQL), Python ETL, Power BI and Tableau dashboards, RFM / CLV and validation,
+  the architecture background (systems thinking, focus on the end user), and the SQL Server and
+  BigQuery portfolio work.
+- Education: removed the Scaler Academy program line and the separate "Career move" line; the
+  M.S. (Woolf University) and B.Arch remain.
+- Polish pass for recruiters and ATS: verb-first experience bullets (automate, design, run,
+  implement), keywords the resume already supports (ETL, data cleaning, ad-hoc analysis,
+  requirements gathering, dimensional model, data quality), tighter project lines, and no
+  single-word wrapped lines. Primary SQL skills list MySQL and PostgreSQL first.
+- No new figures. Still one page.
+
 ## v4 — 2026-11-16
 
 Tag: `data-analyst-v4` · Folder: [`v4/`](v4/)

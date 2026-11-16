@@ -4,7 +4,7 @@ Versioned resumes for **Hari Prasad Guntuku**, kept as two independent tracks:
 
 | Track | Folder | Target roles | Latest | Tag |
 |---|---|---|---|---|
-| Data Analyst | [`data-analyst/`](data-analyst/) | Data Analyst, BI Analyst, Product/Business Analyst | [v4](data-analyst/v4/) | `data-analyst-v4` |
+| Data Analyst | [`data-analyst/`](data-analyst/) | Data Analyst, BI Analyst, Product/Business Analyst | [v5](data-analyst/v5/) | `data-analyst-v5` |
 | AI Engineer | [`ai-engineer/`](ai-engineer/) | AI Engineer, ML Engineer, NLP / Applied ML | [v2](ai-engineer/v2/) | `ai-engineer-v2` |
 
 ## Layout

@@ -1,0 +1,51 @@
+                                         HARI PRASAD GUNTUKU
+                          Data Analyst | SQL | Power BI | Excel | Business Reporting | Python
+                                     Hyderabad, India | +91 8555081508 | connect.hpg@gmail.com
+                      linkedin.com/in/dot-hpg | github.com/dot-hpg | Portfolio: hariprasad-data-analyst.vercel.app
+
+PROFESSIONAL SUMMARY
+Data Analyst at Ivue Technologies since March 2024. Write the SQL (joins, CTEs, window functions) behind recurring business
+reports, build the Power BI dashboards stakeholders use to track KPIs, and run validation checks so every report matches its source
+data. Own reports end to end, from agreeing metric definitions with the business to presenting a recommendation. Portfolio: a
+SQL Server freight warehouse with 16 data-quality rules and a 30-query BigQuery analysis.
+SKILLS
+Primary: SQL (SQL Server / T-SQL, PostgreSQL, MySQL; CTEs, window functions, stored procedures) | Power BI (DAX, Power
+Query, data modeling) | Excel (pivots, XLOOKUP)
+Secondary: Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter) | ETL and data validation | KPI reporting
+Additional: Tableau | Statistics (hypothesis and A/B testing, regression) | BigQuery, DuckDB | RFM / CLV | Git
+PROFESSIONAL EXPERIENCE
+Data Analyst | Ivue Technologies Pvt. Ltd., Hyderabad                                                             Mar 2024 – Present
+ • Write and automate SQL and Python pipelines that pull [X records per day / month] from [source systems] for [X] business
+   teams, replacing manual spreadsheet pulls and cutting report preparation by [X hours per week].
+ • Build and maintain [X] Power BI dashboards and KPI reports used by [X users in sales / operations / finance]; agree
+   requirements, metric definitions and refresh schedules with stakeholders so every team reads the same numbers.
+ • Deliver [weekly / monthly] business reports to [managers / business leads]; findings led to [one real decision].
+ • Built RFM and CLV models to find high-value customer groups for [retention / marketing] across [X customers].
+ • Added validation and reconciliation checks across pipelines so source data, reports and dashboards match, catching [X data
+   issues per month] before they reached a report.
+SELECTED PROJECTS
+Global Freight Analytics Platform | SQL Server, T-SQL, Python, Pandas                                 [github.com/dot-hpg/repo-name]
+ • Problem: Freight data sat in 5 systems (bookings, billing, screening, claims, capacity) with no single trusted source.
+ • Approach: Built a SQL Server lake-to-warehouse pipeline: T-SQL stored procedures load conformed dimensions and 6 fact
+   tables, convert charges to USD, quarantine bad rows, then run 16 data-quality rules; pandas re-checks the totals.
+ • Result: On a 500K-shipment synthetic dataset (4.6M rows, 14 source files), the quality gate caught all 250 planted defects, and
+   row counts and USD revenue reconciled between files and warehouse to within $0.16.
+Target Brazil: E-Commerce Operations Analysis | SQL, BigQuery                        github.com/dot-hpg/target-brazil-sql-case-study
+ • Problem: Find what drove order growth, delivery delays and poor reviews for Target's Brazil e-commerce business.
+ • Approach: Wrote 30 BigQuery SQL queries (joins, CTEs, window functions) over 99,441 orders in six deep-dives.
+ • Result: Order value grew 137% year over year; very late deliveries cut review scores from 4.32 to 1.70; same-state orders
+   arrived 2x faster with 43% lower freight.
+BI Dashboards | Power BI, DAX, Power Query, Tableau                          github.com/dot-hpg/power-BI-projects-data-analysis
+ • Problem: Turn raw operational data into dashboards that managers can read at a glance.
+ • Approach: Built 7 Power BI and Tableau dashboards with DAX measures, Power Query cleaning and data modeling.
+ • Result: Supplier Performance & SLA dashboard tracks 99.3% SLA compliance for consumables vs. 89.5% for uniforms; others
+   cover audit efficiency and education data.
+More case studies on GitHub: Customer Analytics (RFM, cohorts, CLV) | Walmart Black Friday (CLT, bootstrap) | Yulu demand
+(hypothesis testing, regression) | Netflix content strategy (EDA)
+EDUCATION
+M.S. in Computer Science (AI & ML) | Woolf University, via Scaler Neovarsity                                          In Progress
+Advanced Data Science & Machine Learning Program | Scaler Academy                                                     In Progress
+Bachelor of Architecture (B.Arch), First Class | School of Planning and Architecture, New Delhi
+Career move: Moved from architecture into analytics because [your real reason, in a few words]; Data Analyst since March 2024.
+Certifications: HackerRank SQL (Intermediate, Basics) | NSDC: Python Libraries, SQL, EDA Fundamentals
+

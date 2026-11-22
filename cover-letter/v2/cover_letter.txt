@@ -1,0 +1,49 @@
+HARI PRASAD GUNTUKU
+Hyderabad, India | +91 8555081508 | connect.hpg@gmail.com
+LinkedIn: linkedin.com/in/dot-hpg | Portfolio: hariprasad-data-analyst.vercel.app | GitHub: github.com/dot-hpg
+
+
+Dear Hiring Manager,
+
+I am writing to express my interest in a Data Analyst role where I can apply my experience in SQL,
+Power BI and business reporting. I am a Data Analyst at Ivue Technologies, where I have worked
+since March 2024, and I focus on turning messy data into decisions people trust: I build the SQL and
+Python pipelines behind recurring business reports, the Power BI dashboards teams use to track
+their KPIs, and the validation checks that keep every number consistent with its source.
+
+In my current role, I automate data extraction, cleaning and transformation with SQL (joins, CTEs,
+window functions) and Python ETL pipelines, replacing manual spreadsheet pulls so recurring
+reports are consistent and on schedule. I design and maintain Power BI dashboards and KPI
+reports, and agree requirements, metric definitions and refresh schedules with stakeholders so every
+team works from the same numbers. I have also developed RFM segmentation and customer
+lifetime value (CLV) models that identify high-value customer groups and guide retention and
+marketing, and I run reconciliation checks so source systems, reports and dashboards match before
+results reach stakeholders.
+
+My portfolio shows the same focus on data quality at a larger scale. For a Global Freight Analytics
+Platform, I designed a SQL Server ETL pipeline that brings data from five systems into a
+dimensional model with six fact tables, using T-SQL stored procedures and 16 data-quality rules. On
+a 500,000-shipment synthetic dataset, the quality gate quarantined all 250 planted defects, and
+revenue reconciled between source and warehouse to within $0.16. In a separate analysis, I wrote
+30 BigQuery SQL queries over 99,441 Target Brazil e-commerce orders and showed that very late
+deliveries cut review scores from 4.32 to 1.70, while same-state orders arrived twice as fast with
+43% lower freight.
+
+My core toolkit is SQL (MySQL, PostgreSQL, SQL Server / T-SQL), Power BI (DAX, Power Query,
+data modeling) and Excel, supported by Python (Pandas, NumPy), Tableau and statistics such as
+hypothesis testing, A/B testing and regression. My background in architecture taught me to think in
+systems and to design for the person who will use the result, which is how I approach every
+dashboard and report. I am also pursuing an M.S. in Computer Science (AI & ML) through Woolf
+University.
+
+I would welcome the opportunity to discuss how my experience and skills could contribute to your
+team. Thank you for your time and consideration.
+
+Sincerely,
+Hari Prasad Guntuku
+
+
+
+
+                                                                                            Hari Prasad Guntuku | Cover Letter
+

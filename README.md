@@ -1,11 +1,12 @@
 # Resume Design
 
-Versioned resumes for **Hari Prasad Guntuku**, kept as two independent tracks:
+Versioned resumes and cover letter for **Hari Prasad Guntuku**, kept as independent tracks:
 
 | Track | Folder | Target roles | Latest | Tag |
 |---|---|---|---|---|
 | Data Analyst | [`data-analyst/`](data-analyst/) | Data Analyst, BI Analyst, Product/Business Analyst | [v4](data-analyst/v4/) | `data-analyst-v4` |
 | AI Engineer | [`ai-engineer/`](ai-engineer/) | AI Engineer, ML Engineer, NLP / Applied ML | [v2](ai-engineer/v2/) | `ai-engineer-v2` |
+| Cover Letter | [`cover-letter/`](cover-letter/) | Data Analyst applications | [v2](cover-letter/v2/) | `cover-letter-v2` |
 
 ## Layout
 
@@ -19,13 +20,20 @@ resume-design/
 │       ├── Hari_Prasad_Guntuku_Data_Analyst_Resume_v1.docx
 │       ├── Hari_Prasad_Guntuku_Data_Analyst_Resume_v1.pdf
 │       └── resume.txt         ← plain-text snapshot, so versions can be diffed
-└── ai-engineer/
+├── ai-engineer/
+│   ├── CHANGELOG.md
+│   └── v1/
+│       ├── Hari_Prasad_Guntuku_AI_Engineer_Resume_v1.docx
+│       ├── Hari_Prasad_Guntuku_AI_Engineer_Resume_v1.pdf
+│       ├── build_resume.py    ← python-docx generator that produces the .docx
+│       └── resume.txt
+└── cover-letter/
     ├── CHANGELOG.md
-    └── v1/
-        ├── Hari_Prasad_Guntuku_AI_Engineer_Resume_v1.docx
-        ├── Hari_Prasad_Guntuku_AI_Engineer_Resume_v1.pdf
-        ├── build_resume.py    ← python-docx generator that produces the .docx
-        └── resume.txt
+    └── v2/
+        ├── Hari_Prasad_Guntuku_Cover_Letter_v2.docx
+        ├── Hari_Prasad_Guntuku_Cover_Letter_v2.pdf
+        ├── build_cover_letter.py
+        └── cover_letter.txt   ← plain-text snapshot (pdftotext -layout)
 ```
 
 ## Versioning convention

@@ -2,6 +2,7 @@
 # Cut the next version of one resume track.
 #   ./scripts/new_version.sh data-analyst
 #   ./scripts/new_version.sh ai-engineer
+#   ./scripts/new_version.sh cover-letter
 # Copies <track>/v<latest>/ to <track>/v<latest+1>/ and renames the _vN file
 # suffixes. Old versions are never modified.
 set -euo pipefail
@@ -9,8 +10,8 @@ set -euo pipefail
 track="${1:-}"
 root="$(cd "$(dirname "$0")/.." && pwd)"
 case "$track" in
-  data-analyst|ai-engineer) ;;
-  *) echo "usage: $0 data-analyst|ai-engineer" >&2; exit 1 ;;
+  data-analyst|ai-engineer|cover-letter) ;;
+  *) echo "usage: $0 data-analyst|ai-engineer|cover-letter" >&2; exit 1 ;;
 esac
 
 dir="$root/$track"

@@ -1,0 +1,41 @@
+HARI PRASAD GUNTUKU
+Hyderabad, India | +91 8555081508 | connect.hpg@gmail.com
+LinkedIn: linkedin.com/in/dot-hpg | Portfolio: hariprasad-data-analyst.vercel.app | GitHub: github.com/dot-hpg
+
+
+Dear Hiring Manager,
+
+I am writing to express my interest in opportunities within your organization where I can apply my
+experience in data analysis, business intelligence, and data-driven problem-solving. I am a Data Analyst
+with over two years of professional experience at Ivue Technologies, where I build SQL and Python data
+pipelines, develop Power BI dashboards, and work with business stakeholders to turn data into reliable
+insights and actionable recommendations.
+
+In my current role, I have automated recurring reporting workflows, analyzed operational and customer
+datasets, and developed KPI dashboards that help business teams monitor performance. I also work on
+metric definitions, data validation, and reconciliation checks to improve consistency and trust in reporting.
+My experience includes customer segmentation using RFM and customer lifetime value (CLV), along with
+cohort analysis and exploratory analysis.
+
+My technical toolkit includes advanced SQL, Python (Pandas, NumPy and statistical libraries), Power BI,
+Tableau, and Excel. I have applied statistical methods such as hypothesis testing, A/B testing, confidence
+intervals, bootstrapping, and regression across multiple analytics projects. These projects have involved
+datasets of up to 550,000 records and strengthened my ability to investigate business questions, identify
+meaningful patterns, and communicate findings clearly.
+
+I bring a combination of analytical thinking, technical execution, attention to data quality, and a practical
+understanding of business requirements. I am also pursuing an M.S. in Computer Science with a focus on
+Artificial Intelligence and Machine Learning, while continuing to strengthen my analytical and technical
+skills.
+
+I would welcome the opportunity to discuss how my experience and skills could contribute to your team.
+Thank you for your time and consideration.
+
+Sincerely,
+Hari Prasad Guntuku
+
+
+
+
+                                                                                                Hari Prasad Guntuku | Cover Letter
+
